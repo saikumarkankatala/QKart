@@ -10,6 +10,6 @@ This project is an Amazon clone built with React and JavaScript. It features cor
 - **Shopping Cart**: Users can add items to their cart and view them.
 
 ## Directory Structure
-**/src** - Contains all the React components and the main application logic.
-**/backend** - Houses the backend API and database connection logic.
-**/public**- Contains the public assets and HTML file.
+- **/src** - Contains all the React components and the main application logic.
+- **/backend** - Houses the backend API and database connection logic.
+- **/public**- Contains the public assets and HTML file.
