@@ -13,3 +13,9 @@ This project is an Amazon clone built with React and JavaScript. It features cor
 - **/src** - Contains all the React components and the main application logic.
 - **/backend** - Houses the backend API and database connection logic.
 - **/public**- Contains the public assets and HTML file.
+
+## How to Use
+1. Clone the repository: git clone https://github.com/saikumarkankatala/QKart.git
+2. Install dependencies: npm install
+3. Start the server: npm start
+
