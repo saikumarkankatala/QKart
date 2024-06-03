@@ -6,7 +6,7 @@ This project is an Amazon clone built with React and JavaScript. It features cor
 
 - **User Authentication**: Allows users to sign up, log in, and log out.
 - **Account Creation**: New users can create an account.
-- **Product Listings**: Displays a list of products which users can browse.
+- **Product Listings**: Displays a list of products that users can browse.
 - **Shopping Cart**: Users can add items to their cart and view them.
 
 ## Directory Structure
@@ -15,7 +15,7 @@ This project is an Amazon clone built with React and JavaScript. It features cor
 - **/public**- Contains the public assets and HTML file.
 
 ## How to Use
-1. Clone the repository: git clone https://github.com/saikumarkankatala/QKart.git
-2. Install dependencies: npm install
-3. Start the server: npm start
+- **Clone the repository**: git clone https://github.com/saikumarkankatala/QKart.git
+- **Install dependencies**: npm install
+- **Start the server**: npm start
 
